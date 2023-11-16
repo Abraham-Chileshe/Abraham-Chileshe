@@ -12,9 +12,11 @@ Hi, my name is Abraham Chileshe, im a programmer and also a year 2 student at th
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]() 
 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
+
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]() 
 
-[![Mail Badge](https://img.shields.io/badge/-achileshe21-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:achileshe21@gmail.com)
+
 
 
 <!-- TODO: Add last video link -->

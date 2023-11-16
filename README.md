@@ -6,7 +6,7 @@ Hi, my name is Abraham Chileshe, im a programmer and also a year 2 student at th
 
 ### My Social Handless
 
-[![VK](	https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://twitter.com/Ipenywis) 
+[![VK](	https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/ab_chileshe){:target="_blank"} 
 
 [![Mail Badge](https://img.shields.io/badge/-CoderOne-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/coderone) 
 

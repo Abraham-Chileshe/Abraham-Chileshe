@@ -34,12 +34,9 @@ Hi, my name is Abraham Chileshe, im a programmer and also a year 2 student at th
 - 📃 [Curriculum vitae/Resume](#)
 - :email: achileshe21@gmail.com
 
-### Coding Stats
-
-![Chileshe's Codingstats](https://github-readme-stats.vercel.app/api/top-langs/?username=Abraham-Chileshe&theme=blue-green)
-
 #### Github Stats
 
-![Chileshe's github stats](https://github-readme-stats.vercel.app/api?username=Abraham-Chileshe&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Chileshe's github stats](https://github-readme-stats.vercel.app/api?username=Abraham-Chileshe&count_private=true&theme=tokyonight&hide=contribs,prs) ![Chileshe's Codingstats](https://github-readme-stats.vercel.app/api/top-langs/?username=Abraham-Chileshe&theme=blue-green)
+
 
 </details>

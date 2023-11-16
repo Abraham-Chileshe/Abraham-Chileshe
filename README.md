@@ -27,9 +27,9 @@ Hi, my name is Abraham Chileshe, im a programmer and also a year 2 student at th
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&labelColor=black)](#) 
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=royalblue&labelColor=black)](#) 
 
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
+[![Javascript Badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
 
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) 
 

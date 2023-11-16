@@ -20,12 +20,12 @@ Join the bi-wekly Newsletter among thousands of other developers and stay in the
 
 ### What I currently Do
 
-- 🧑🏿‍🎓I’m currently a student at [FEFU](https://www.dvfu.ru/en/)
+- 🎓I’m currently a student at [FEFU](https://www.dvfu.ru/en/)
+- 🤔 Currently Studing Mathematics and Computer Science.
 - :computer: My favourite Programming Language: `C++`
-- 🤔 I’m looking for help with Outstanding Video ideas.
-- 📫 How to reach me: islempenywis@gmail.com.
-- 😄 Pronouns: CoderOne, Ipenywis, islempenywis.
-- ⚡ Fun fact: I play games and go to the GYM very often.
+- 📫 How to reach me: achileshe21@gmail.com
+- 📃 Almost done with my Associates at UoPeople
+- ⚡ Hobbies: Playing Guitar, Piano, Singing and Coding
 
 #### Top Technologies
 

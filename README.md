@@ -31,14 +31,10 @@ Hi, my name is Abraham Chileshe, im a programmer and also a year 2 student at th
 
 
 
-#### Bizness
-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/Islem%20Maboud%20Resume%20v2.0.pdf)
-- :email: ipenywis@gmail.com
+#### For Business
+- 📃 [Curriculum vitae/Resume](#)
+- :email: achileshe21@gmail.com
 
-
-#### Profile Visits 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ipenywis.ipenywis)
 
 <details>
 <summary>

@@ -13,12 +13,15 @@ Hi, my name is Abraham Chileshe, im a programmer and also a year 2 student at th
 const Abraham = {
   pronouns: "he" | "him",
   code: [ HTML, CSS, PHP, MySQL, C++, Javascript],
-  Education:
+
+  education:
   {
       University: ["Far Eastern Federal University", "University of the People" ],
       Program: ["End-to-End Technologies", "Computer Science and Mathematics"],            
       year: "Second Year"
   },
+
+  hobbies : ["Playing Guitar", "Piano", "Singing", "Coding"]
 
 }
 ```

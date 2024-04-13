@@ -12,20 +12,11 @@ Hi, my name is Abraham Chileshe, im a programmer and also a year 2 student at th
 ```javascript
 const Abraham = {
   pronouns: "he" | "him",
-  age: 21,
-  country: "Zambian"
   code: [ HTML, CSS, PHP, MySQL, C++, Javascript],
-  IDE: [],
-  architecture: ["microservices", "event-driven", "design system pattern"],
   Education: {
-            University: {
-                            FEFU: "Pursuing a bachalors degree in End to End technologies",
-                            UoPeople: ""Pursuing a bachalors degree in Computer Science and Mathematics",
-                        },
+            University: ["Far Eastern Federal University", "University of the People" ],             
             year: 2
-                      },
-
- challenge: "I am current a 2nd year student at the Far Eastern Federal University"
+  },
 
 }
 ```

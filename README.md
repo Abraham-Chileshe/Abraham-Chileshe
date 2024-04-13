@@ -14,8 +14,9 @@ const Abraham = {
   pronouns: "he" | "him",
   code: [ HTML, CSS, PHP, MySQL, C++, Javascript],
   Education: {
-            University: ["Far Eastern Federal University", "University of the People" ],             
-            year: 2
+            University: ["Far Eastern Federal University", "University of the People" ],
+            Program: ["End-to-End Technologies", "Computer Science and Mathematics"],            
+            year: "Second Year"
   },
 
 }

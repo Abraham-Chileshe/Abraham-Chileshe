@@ -33,7 +33,6 @@ const Abraham = {
 - 🎓I’m currently a student at [FEFU](https://www.dvfu.ru/en/)
 - 🤔 Currently Studing Mathematics and Computer Science.
 - :computer: My favourite Programming Language is `C++`
-- 📫 How to reach me: achileshe21@gmail.com
 - 📃 Almost done with my Associates at UoPeople
 - ⚡ Hobbies: Playing Guitar, Piano, Singing and Coding
 
@@ -45,11 +44,10 @@ const Abraham = {
 
 
 #### For Business
-- 📃 [Curriculum vitae/Resume](#)
-- :email: achileshe21@gmail.com
+<a href="mailto:achileshe21@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+
 
 #### Github Stats
-
 ![Chileshe's github stats](https://github-readme-stats.vercel.app/api?username=Abraham-Chileshe&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 

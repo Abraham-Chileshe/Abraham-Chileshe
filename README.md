@@ -7,6 +7,10 @@
   <a href="https://www.facebook.com/achileshe21" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
 </p>
 
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=abraham-chileshe&style=for-the-badge&color=orange" alt=""/>
+</div>
+
 ### A little about Me
 ```javascript
 const Abraham = {

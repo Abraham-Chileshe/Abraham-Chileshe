@@ -12,7 +12,6 @@
 ### A little about Me
 ```javascript
 const Abraham = {
-  pronouns: "he" | "him",
   code: [ HTML, CSS, PHP, MySQL, C++, Javascript],
 
   education:

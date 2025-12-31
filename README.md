@@ -26,30 +26,4 @@ const Abraham = {
 
 }
 ```
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
 
-<!-- TODO: Add last video link -->
-
-### What I currently Do
-
-- 🎓I’m currently a student at [FEFU](https://www.dvfu.ru/en/)
-- 🤔 Currently Studing Mathematics and Computer Science.
-- :computer: My favourite Programming Language is `C++`
-- 📃 Almost done with my Associates at UoPeople
-- ⚡ Hobbies: Playing Guitar, Piano, Singing and Coding
-
-
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com/?user=abraham-chileshe&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-</p>
-
-
-<p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=abraham-chileshe&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abraham-chileshe&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
-</p>
-
-
-</details>

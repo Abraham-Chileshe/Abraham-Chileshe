@@ -18,7 +18,7 @@ const Abraham = {
   {
       University: ["University of the People", "Far Eastern Federal University" ],
       Program: ["End-to-End Technologies", "Computer Science and Mathematics"],            
-      year: "Second Year"
+      year: "Final Year"
   },
 }
 ```

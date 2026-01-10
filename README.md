@@ -20,8 +20,6 @@ const Abraham = {
       Program: ["End-to-End Technologies", "Computer Science and Mathematics"],            
       year: "Second Year"
   },
-
-
 }
 ```
 

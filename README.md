@@ -52,18 +52,5 @@ const abrahamChileshe = {
     frontendAndDesktop: ["Alpine.js", "Blade", "Vite", "Electron", "Vanilla CSS"]
   },
 
-  education: [
-    {
-      university: "Far Eastern Federal University",
-      program: "Computer Science and Mathematics",
-      status: "Final Year"
-    },
-    {
-      university: "University of the People",
-      program: "End-to-End Technologies",
-      status: "Final Year"
-    }
-  ],
-
   challenge: "Building high-throughput, fault-tolerant distributed web ecosystems."
 };
